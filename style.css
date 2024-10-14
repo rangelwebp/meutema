@@ -1,0 +1,40 @@
+/*
+Theme Name: Meu Tema
+Theme URI: #
+Author: Rangel Xavier - Desenvolvedor
+Author URI: #
+Description: Um tema compatível
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: meutema
+*/
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+p,
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0px;
+	padding: 0px;
+}
+
+a {
+	color: #151515;
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}

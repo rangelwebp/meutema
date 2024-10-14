@@ -1,0 +1,13 @@
+#menu-comments,
+#toplevel_page_jet-dashboard,
+#menu-posts-elementor_library,
+#toplevel_page_elementor,
+#menu-appearance,
+#toplevel_page_really-simple-security,
+#menu-posts-jet-popup,
+.separator-croco--plugins-before,
+#toplevel_page_jet-engine,
+#menu-plugins,
+.title strong span:last-child {
+	display: none;
+}
